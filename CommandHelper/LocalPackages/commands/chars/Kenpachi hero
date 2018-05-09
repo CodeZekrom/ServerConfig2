@@ -1,0 +1,32 @@
+
+class: Kenpachi
+costumes:
+- chatcolor: '&e'
+  name: §0K§ee§0np§ea§0ch§ei
+  sig: waAjz8lNKCkce/yU/sdftU86q22ZQKU6f1K+byklLxO2QP93j0sb2cQqPKOp0r0uLIkHU7o005+fqZh5Os9JM/+E/GGqhQISU1skbS2y43o/ba74ZDinHwzvcfIKU6VSYju3aWoTj8EtnL/DJWXnT7gbdSfrowkoqm5NafD+fbICO69W9JsS7H4iy6nntMOTpXtCJevBkXnGlb4OeKdKE1UPQwhV67Y0hiv+tXcqpQQ+P3h9L6YH2mOTSet59oGdieYgqY/7rNWa8ttRLTw2w3n7wKedF7WOsteiDOotZdt3jMqAUbYuJOPvvv9+ID4bAm4yva+xjjXD00KRnrq2mZpzGcMVYIh/N1TAn2MhdOpBME6Km5FE1ePpp0PwB1t9VStx/7x7qhqMaBHOBouE8Dv8vXnAeDLt8T6pxit0nNsCjuHNjTTri5oUpz7HNrpFKcsN+9UlbnI/ZfTdextugB5bdbtorJo+d5alm5VgKYgkUlHdIJwi6AtdXlSKA7dT+hF7wU7EXyYhoe3fNkUDn/2EeaoC2Lpo6Q2oibweF3RpdAEPaXWkDGO1q2CI+kgNsOeqVZRL/fOwg+9jIgLXBYJBwjsLVNZu2v1EZQGNCVROALqrFzJqsWazhEGT1Aypr7l2yUsv01Jcv7EuPDeXn2OW2oJyFBCObz86EsoFU/4=
+  val: eyJ0aW1lc3RhbXAiOjE1MjU4OTY0NDkyNjcsInByb2ZpbGVJZCI6IjRhOTE4MTg5N2E3NjQxZTNiYTZjZDExMWZiYTBmYTBhIiwicHJvZmlsZU5hbWUiOiJDb2RlWmVrcm9tIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjYxZjc1M2MwMWE1ZWE2OWZmOWUyZDVmZTAyYmNkNGJmNzVmOTMzZmVkZjJkN2RiY2FhZWZmYjJkNzJjZjc0In19fQ==
+effects:
+- /effect <plr> 5 9999 25 true
+- /effect <plr> 11 9999 7 true
+- /effect <plr> 12 9999 1 true
+- /effect <plr> 13 9999 2 true
+- /effect <plr> 21 9999 5 true
+haste: 3
+items:
+- /give <plr> minecraft:iron_sword 1 16:100 19:1 20:1 name:&0Zanpakuto
+- /mgive <plr> destroyerblastwand
+jump: 4
+maxhearts: 50
+permissions:
+  superherocity:
+  - -essentials.protect.damage.fall
+  - powers.float
+powers:
+/effects
+/items
+/jump 0-4
+/run 0-6
+/haste 0-6
+/tp
+/fly
+speech: Mess with the best, die like the rest.
